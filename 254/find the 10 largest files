@@ -1,1 +1,0 @@
-find / - type f -printf "%s\t%p\n" 2>/dev/null|sort -nr|head 
