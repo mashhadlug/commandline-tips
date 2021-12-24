@@ -48,18 +48,23 @@ region ها :
 علاوه بر این میتونیم یک صفحه رو به چندین ناحیه یا region تقسیم کنیم. و مشخص کنیم  که هر window توی کدوم ناحیه نمایش داده بشه. اینطوری میتونیم توی یک صفحه به همه window ها نظارت داشته باشیم و باهاشون کار کنیم.
 
 ctrl+a-S  
+
 صفحه رو به صورت افقی به دو قسمت تقسیم میکنه.
 
 ctrl+a-| 
+
 صفحه رو به صورت عمودی به دووقسمت تقسیم میکنه.
 
 ctrl+a-tab 
+
 از یک ناحیه به ناحیه دیگه می بره.
 
-ctrl+a-Q  
+ctrl+a-Q
+
 همه ناحیه ها رو از بین می بره.
 
-ctrl+a-X 
+ctrl+a-X
+
 ناحیه ای که در حال حاضر توی اون هستیم رو از بین می بره.
 
 
@@ -79,13 +84,16 @@ screen - ls or screen - list
 
 برای attach کردن یک session از دستور screen -r SESSION-PID اون استفاده می کنیم.
 
-ctrl+a-d 
+ctrl+a-d
+
 session که داخل اون هستیم رو detach میکنه .
 
-screen -S SESSION-PID -X quit  
+screen -S SESSION-PID -X quit
+
 session با SESSION-PID مورد نظر رو از بین میبره .
 
-ctrl+a-\  
+ctrl+a-\
+
 session که داخل اون هستیم رو از بین میبره.
 
 copy/scrollback mode :
