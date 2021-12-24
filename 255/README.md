@@ -12,13 +12,20 @@ screen
 
 window ها :
 
-ctrl+a-w  -->  لیست همه window ها رو نشون میده . علامت * یعنی در حال حاضر توی اون window هستیم.
-ctrl+a-c  --> یک window جدید ایجاد میکنه.
-ctrl+a-n  --> وارد window بعدی میشه.
-ctrl+a-p  --> وارد window قبلی میشه.
-ctrl+a-NUMBER --> وارد window شماره n میشه که NUMBER همون شماره window هست.
-ctrl+a-"  --> لیست همه window ها رو نشون میده و میتونیم window وارد window مورد نظر بشیم.
-ctrl+a-k  --> window که داخل اون هستیم رو از بین می بره.
+ctrl+a-w  --> 
+لیست همه window ها رو نشون میده . علامت * یعنی در حال حاضر توی اون window هستیم.
+ctrl+a-c  --> 
+یک window جدید ایجاد میکنه.
+ctrl+a-n  -->
+وارد window بعدی میشه.
+ctrl+a-p  -->
+وارد window قبلی میشه.
+ctrl+a-NUMBER --> 
+وارد window شماره n میشه که NUMBER همون شماره window هست.
+ctrl+a-"  -->
+لیست همه window ها رو نشون میده و میتونیم window وارد window مورد نظر بشیم.
+ctrl+a-k  --> 
+window که داخل اون هستیم رو از بین می بره.
 
 region ها :
 
